@@ -1,0 +1,896 @@
+[
+  {
+    "Language": "Afrikaans",
+    "code": "af",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Albanian",
+    "code": "sq",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Amharic",
+    "code": "am",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Arabic",
+    "code": "ar",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Armenian",
+    "code": "hy",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Assamese",
+    "code": "as",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Aymara",
+    "code": "ay",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Azerbaijani",
+    "code": "az",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bambara",
+    "code": "bm",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Basque",
+    "code": "eu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Belarusian",
+    "code": "be",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bengali",
+    "code": "bn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bhojpuri",
+    "code": "bho",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bosnian",
+    "code": "bs",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bulgarian",
+    "code": "bg",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Catalan",
+    "code": "ca",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Cebuano",
+    "code": "ceb",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Chinese (Simplified)",
+    "code": "zh-CN",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Chinese (Traditional)",
+    "code": "zh-TW",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Corsican",
+    "code": "co",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Croatian",
+    "code": "hr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Czech",
+    "code": "cs",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Danish",
+    "code": "da",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Dhivehi",
+    "code": "dv",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Dogri",
+    "code": "doi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Dutch",
+    "code": "nl",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "English",
+    "code": "en",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Esperanto",
+    "code": "eo",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Estonian",
+    "code": "et",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Ewe",
+    "code": "ee",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Filipino (Tagalog)",
+    "code": "fil",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Finnish",
+    "code": "fi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "French",
+    "code": "fr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Frisian",
+    "code": "fy",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Galician",
+    "code": "gl",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Georgian",
+    "code": "ka",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "German",
+    "code": "de",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Greek",
+    "code": "el",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Guarani",
+    "code": "gn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Gujarati",
+    "code": "gu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Haitian Creole",
+    "code": "ht",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hausa",
+    "code": "ha",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hawaiian",
+    "code": "haw",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hebrew",
+    "code": "he or iw",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hindi",
+    "code": "hi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hmong",
+    "code": "hmn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hungarian",
+    "code": "hu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Icelandic",
+    "code": "is",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Igbo",
+    "code": "ig",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Ilocano",
+    "code": "ilo",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Indonesian",
+    "code": "id",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Irish",
+    "code": "ga",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Italian",
+    "code": "it",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Japanese",
+    "code": "ja",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Javanese",
+    "code": "jv or jw",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kannada",
+    "code": "kn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kazakh",
+    "code": "kk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Khmer",
+    "code": "km",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kinyarwanda",
+    "code": "rw",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Konkani",
+    "code": "gom",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Korean",
+    "code": "ko",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Krio",
+    "code": "kri",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kurdish",
+    "code": "ku",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kurdish (Sorani)",
+    "code": "ckb",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kyrgyz",
+    "code": "ky",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Lao",
+    "code": "lo",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Latin",
+    "code": "la",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Latvian",
+    "code": "lv",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Lingala",
+    "code": "ln",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Lithuanian",
+    "code": "lt",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Luganda",
+    "code": "lg",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Luxembourgish",
+    "code": "lb",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Macedonian",
+    "code": "mk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Maithili",
+    "code": "mai",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Malagasy",
+    "code": "mg",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Malay",
+    "code": "ms",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Malayalam",
+    "code": "ml",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Maltese",
+    "code": "mt",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Maori",
+    "code": "mi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Marathi",
+    "code": "mr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Meiteilon (Manipuri)",
+    "code": "mni-Mtei",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Mizo",
+    "code": "lus",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Mongolian",
+    "code": "mn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Myanmar (Burmese)",
+    "code": "my",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Nepali",
+    "code": "ne",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Norwegian",
+    "code": "no",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Nyanja (Chichewa)",
+    "code": "ny",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Odia (Oriya)",
+    "code": "or",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Oromo",
+    "code": "om",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Pashto",
+    "code": "ps",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Persian",
+    "code": "fa",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Polish",
+    "code": "pl",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Portuguese (Portugal, Brazil)",
+    "code": "pt",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Punjabi",
+    "code": "pa",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Quechua",
+    "code": "qu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Romanian",
+    "code": "ro",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Russian",
+    "code": "ru",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Samoan",
+    "code": "sm",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sanskrit",
+    "code": "sa",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Scots Gaelic",
+    "code": "gd",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sepedi",
+    "code": "nso",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Serbian",
+    "code": "sr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sesotho",
+    "code": "st",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Shona",
+    "code": "sn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sindhi",
+    "code": "sd",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sinhala (Sinhalese)",
+    "code": "si",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Slovak",
+    "code": "sk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Slovenian",
+    "code": "sl",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Somali",
+    "code": "so",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Spanish",
+    "code": "es",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Sundanese",
+    "code": "su",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Swahili",
+    "code": "sw",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Swedish",
+    "code": "sv",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tagalog (Filipino)",
+    "code": "tl",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tajik",
+    "code": "tg",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tamil",
+    "code": "ta",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tatar",
+    "code": "tt",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Telugu",
+    "code": "te",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Thai",
+    "code": "th",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tigrinya",
+    "code": "ti",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tsonga",
+    "code": "ts",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Turkish",
+    "code": "tr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Turkmen",
+    "code": "tk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Twi (Akan)",
+    "code": "ak",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Ukrainian",
+    "code": "uk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Urdu",
+    "code": "ur",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Uyghur",
+    "code": "ug",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Uzbek",
+    "code": "uz",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Vietnamese",
+    "code": "vi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Welsh",
+    "code": "cy",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Xhosa",
+    "code": "xh",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Yiddish",
+    "code": "yi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Yoruba",
+    "code": "yo",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Zulu",
+    "code": "zu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Language",
+    "code": "code",
+    "FIELD3": "Romanization",
+    "FIELD4": "Transliteration"
+  },
+  {
+    "Language": "Arabic",
+    "code": "ar",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Amharic",
+    "code": "am",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Bengali",
+    "code": "bn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Belarusian",
+    "code": "be",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Gujarati",
+    "code": "gu",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Hindi",
+    "code": "hi",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Japanese",
+    "code": "ja",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Kannada",
+    "code": "kn",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Myanmar",
+    "code": "uk",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Russian",
+    "code": "ru",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Serbian",
+    "code": "sr",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Tamil",
+    "code": "ta",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Telugu",
+    "code": "te",
+    "FIELD3": "",
+    "FIELD4": ""
+  },
+  {
+    "Language": "Ukrainian",
+    "code": "uk",
+    "FIELD3": "",
+    "FIELD4": ""
+  }
+]

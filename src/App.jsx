@@ -1,6 +1,6 @@
-import { Avatar, Box, Button, Card, CardBody, CardFooter, CardHeader, Container, FormLabel, Heading, InputGroup, Link, Select, Text } from "@chakra-ui/react"
+import { Box, Button, Card, CardBody, CardFooter, CardHeader, Container, FormLabel, Heading, InputGroup, Link, Select, Text } from "@chakra-ui/react"
 import languages from "./languages.json"
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import * as srtparser from "srtparsejs"
 
 function App() {
@@ -29,7 +29,6 @@ function App() {
     return renderedSrt
   }
 
-  const [srtText, setSrtText] = useState("")
   const [baseLang, setBaseLang] = useState("")
   const [targetLang, setTargetLang] = useState("")
 
@@ -38,6 +37,7 @@ function App() {
       return item.Language === lang
     }).code
   }
+  /*
   useEffect(() => {
     console.log("Base Language is Set To => ", baseLang)
   }, [baseLang])
@@ -45,6 +45,7 @@ function App() {
   useEffect(() => {
     console.log("Base Language is Set To => ", targetLang)
   }, [targetLang])
+  */
 
   async function handleClick(e) {
     e.preventDefault()
@@ -54,7 +55,6 @@ function App() {
     const reader = new FileReader()
     reader.readAsText(srtFile, "UTF-8")
     reader.onload = async function (evt) {
-      setSrtText(evt.target.result)
       let translatedSrt = await translateSrt(evt.target.result, baseLang, targetLang)
       console.log(await translatedSrt)
       const link = document.createElement("a")
@@ -66,7 +66,7 @@ function App() {
     }
   }
   return (
-    <Container maxW="full" h="100dvh" backgroundColor="red.200" display="flex" justifyContent="center" alignItems="center">
+    <Container maxW="full" h="100dvh" backgroundColor="blue.200" display="flex" justifyContent="center" alignItems="center">
       <Card maxW="50rem">
         <CardHeader>
           <Heading marginBottom={2}>Test</Heading>
@@ -77,7 +77,7 @@ function App() {
           </Text>
         </CardHeader>
         <CardBody>
-          <Box display="flex" marginBottom={4}>
+          <Box justifyContent="space-around" display="flex" marginBottom={4}>
             <Box>
               <FormLabel>Select Base Language</FormLabel>
               <Select onChange={(e) => setBaseLang(getCodeFromLanguage(e.target.value))} name="base_language_select" placeholder="Base Language">
@@ -95,16 +95,25 @@ function App() {
               </Select>
             </Box>
           </Box>
-          <InputGroup display="grid" gap={3}>
+          <InputGroup display="grid" gap={4}>
+            <FormLabel htmlFor="srt_file_input">Upload .srt file to translate</FormLabel>
             <input accept=".srt" type="file" name="srt_file_input" id="srt_file_input" />
-            <Button onClick={(e) => handleClick(e)}>Translate Srt File</Button>
+            <Button colorScheme="blue" onClick={(e) => handleClick(e)}>
+              Translate Srt File
+            </Button>
           </InputGroup>
           <Box id="download_link_container"></Box>
         </CardBody>
         <CardFooter>
-          <Link display="flex" justifyContent="center" alignItems="center" href="https://github.com/bora-sen" fontWeight="bold" colorScheme="teal">
-            <Avatar width={12} height={12} marginRight={1} name="Bora Şen" src="https://github.com/bora-sen.png" />
-            @github
+          <Link
+            display="flex"
+            justifyContent="center"
+            alignItems="center"
+            href="https://github.com/bora-sen/srt-translator"
+            fontWeight="bold"
+            colorScheme="teal"
+          >
+            @github repo
           </Link>
         </CardFooter>
       </Card>

@@ -69,11 +69,10 @@ function App() {
     <Container maxW="full" h="100dvh" backgroundColor="blue.200" display="flex" justifyContent="center" alignItems="center">
       <Card maxW="50rem">
         <CardHeader>
-          <Heading marginBottom={2}>Test</Heading>
+          <Heading marginBottom={2}>SRT Language Translator</Heading>
           <Text>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, pariatur? Blanditiis tempora autem magnam reiciendis voluptas molestiae harum,
-            ipsam aspernatur consectetur sint ad illum illo nulla impedit sed natus inventore aperiam necessitatibus ratione cumque quas cupiditate magni
-            placeat. Nihil ducimus amet, facere cum nesciunt consequuntur!
+            Uses Google Translate's API to translate google's supported languages. First, you need to select the base language. Then, select the language that
+            you want to translate. It's open-source. You can download the translated .srt file with the "Translate Srt File" button.
           </Text>
         </CardHeader>
         <CardBody>
